@@ -14,7 +14,7 @@ Deep learning with differential privacy
 1) 每天三道题
 2) 数据库视频(分一下章节) + redis
     2.1) SQL (62 / 155)
-3)  李航：统计学习方法[目标，一天二十多页吧] (271/464)
+3)  李航：统计学习方法[目标，一天二十多页吧] (297/464)
 4）差分隐私那本书，前几章看一下 [差一个(epsilon,delta)的组合机制，以及机器学习那一章看一下]
 5)  dp收敛性的文章，看几篇
 6)  deep learning with differential privacy看一下[70%, 再看一下rdp吧到时候]
