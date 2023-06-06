@@ -27,4 +27,4 @@ Deep learning with differential privacy
 10) tensorflow panddle要掌握一下[20%]
 11) docker学习 [80%] (拉取，部署， nvidia-docker,  打包)
 12) Git 
-13) 掌握基本的视觉的组件(Transfirmer等等， 看李沐的教程吧)
+13) 掌握基本的视觉的组件(Transformer等等， 看李沐的教程吧)
