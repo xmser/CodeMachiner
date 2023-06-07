@@ -1,5 +1,4 @@
 MySQL
-Redis
 Docker
 git
 
