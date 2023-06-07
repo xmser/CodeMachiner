@@ -27,3 +27,5 @@ Deep learning with differential privacy
 11) docker学习 [80%] (拉取，部署， nvidia-docker,  打包)
 12) Git 
 13) 掌握基本的视觉的组件(Transformer等等， 看李沐的教程吧)
+    13.1) 大致过了一下transformer最基本的文章，跑了一个cv的transformer的代码，下面需要了解rnn以及transformer的具体细节，然后谷歌it那篇细看，然后实现一个vit。
+    13.2） resnet最好自己实现以下，里面的一些层的性质要了解一下，记一下笔记。
