@@ -13,7 +13,7 @@ Deep learning with differential privacy
 1) 每天三道题
    1.1) hot100要安排上了
    1.2） 领茶山视频
-3) 数据库视频(分一下章节) + redis
+3) 数据库视频(分一下章节)
     2.1) SQL (68 / 155)
     2.2) 学一手python + SQL
 4)  李航：统计学习方法[目标，一天二十多页吧] (297/464)
